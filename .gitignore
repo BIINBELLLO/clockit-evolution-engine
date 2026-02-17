@@ -1,7 +1,7 @@
 # Repo
 Baileys
 # compiled output
-/dist
+# /dist
 /node_modules
 
 /Docker/.env
